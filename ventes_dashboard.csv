@@ -1,0 +1,31 @@
+mois,trimestre,vendeur,region,produit,categorie,montant,objectif
+Janvier,T1,Alice,Île-de-France,Laptop Pro,Informatique,18600,15000
+Janvier,T1,Karim,PACA,Smartphone X,Mobile,12350,12000
+Janvier,T1,Lucie,Grand Est,Tablette Air,Informatique,4500,8000
+Janvier,T1,Thomas,Île-de-France,Écouteurs BT,Audio,3600,4000
+Janvier,T1,Nadia,Auvergne,Laptop Pro,Informatique,9600,15000
+Février,T1,Alice,Île-de-France,Laptop Pro,Informatique,21600,15000
+Février,T1,Karim,PACA,Smartphone X,Mobile,15600,12000
+Février,T1,Lucie,Grand Est,Tablette Air,Informatique,8100,8000
+Février,T1,Thomas,Île-de-France,Écouteurs BT,Audio,4800,4000
+Février,T1,Nadia,Auvergne,Laptop Pro,Informatique,14400,15000
+Mars,T1,Alice,Île-de-France,Laptop Pro,Informatique,26400,15000
+Mars,T1,Karim,PACA,Smartphone X,Mobile,11050,12000
+Mars,T1,Lucie,Grand Est,Tablette Air,Informatique,7650,8000
+Mars,T1,Thomas,Île-de-France,Écouteurs BT,Audio,5160,4000
+Mars,T1,Nadia,Auvergne,Laptop Pro,Informatique,19200,15000
+Avril,T2,Alice,Île-de-France,Smartphone X,Mobile,14300,15000
+Avril,T2,Karim,PACA,Laptop Pro,Informatique,24000,20000
+Avril,T2,Lucie,Grand Est,Montre Smart,Wearable,5040,5000
+Avril,T2,Thomas,Île-de-France,Tablette Air,Informatique,6750,6000
+Avril,T2,Nadia,Auvergne,Smartphone X,Mobile,10400,12000
+Mai,T2,Alice,Île-de-France,Laptop Pro,Informatique,31200,15000
+Mai,T2,Karim,PACA,Smartphone X,Mobile,21450,12000
+Mai,T2,Lucie,Grand Est,Tablette Air,Informatique,9450,8000
+Mai,T2,Thomas,Île-de-France,Écouteurs BT,Audio,6240,4000
+Mai,T2,Nadia,Auvergne,Laptop Pro,Informatique,16800,15000
+Juin,T2,Alice,Île-de-France,Montre Smart,Wearable,11200,10000
+Juin,T2,Karim,PACA,Laptop Pro,Informatique,27600,20000
+Juin,T2,Lucie,Grand Est,Smartphone X,Mobile,13650,12000
+Juin,T2,Thomas,Île-de-France,Tablette Air,Informatique,7200,6000
+Juin,T2,Nadia,Auvergne,Écouteurs BT,Audio,4800,4000
